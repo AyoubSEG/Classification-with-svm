@@ -1,4 +1,4 @@
-# Classification-with-svm
+# Classification-with-svm-and-use-a-gui
  
 
 
